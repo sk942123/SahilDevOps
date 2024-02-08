@@ -1,2 +1,3 @@
 new text file for git 
 new line added
+3rd line added
