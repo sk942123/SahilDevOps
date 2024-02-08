@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 abewsd
 pqrs
+=======
+abcefg
+>>>>>>> new-m3-from-m1
